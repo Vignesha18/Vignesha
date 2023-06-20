@@ -190,6 +190,9 @@ body{
 	padding:10px;
 	margin:10px;
 }
+.Aboutpara p{
+	text-align:justify;
+}
 .pages{
 	color:white;
 	background-color:#11101d;
