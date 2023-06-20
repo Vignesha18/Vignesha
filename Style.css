@@ -706,6 +706,19 @@ body{
 		width:300px;
 		height:270px;
 	}
+	.projhead{
+		font-size:22px;
+	}
+	.projdata{
+		font-size:18px;
+	}
+	.readDesc{
+		font-size:18px;
+	}
+	.border-form{
+		width:356px;
+		height:366px;
+	}
 	
 	.border-form{
 		width:356px;
